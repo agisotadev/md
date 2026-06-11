@@ -1,0 +1,3 @@
+2026-06-11T13:06:02Z [cc-design] session-start: fired
+2026-06-11T13:06:02Z [cc-design] session-start: update-check=UPGRADE_AVAILABLE 0.8.1 0.9.3
+2026-06-11T13:06:43Z [cc-design] stop: fired, running cleanup
